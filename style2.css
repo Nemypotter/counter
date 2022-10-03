@@ -1,0 +1,23 @@
+
+.main{
+    background : url(ghana.jpg);
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 649px;
+    width:1290px;
+    font-size:30px; 
+    margin: none;
+    text-align: center;
+}
+.btn{
+    text-decoration: solid;
+    height: 50px;
+    color:blue;
+    background-color: rgba(red, green, blue, alpha);
+    width: 180px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    
+}
+
